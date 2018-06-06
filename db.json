@@ -9,6 +9,12 @@
     "name": "typicode"
   },
   "interests":[
-	"Java", "AngularJS", "NodeJS", "Heroku", "Tomcat", "Salesforce", "Handlebars.js"
+	{"value":"Java"},
+	{"value":"AngularJS"},
+	{"value":"NodeJS"},
+	{"value":"Heroku"},
+	{"value":"Tomcat"},
+	{"value":"Salesforce"},
+	{"value":"Handlebars.js"}
   ]
 }
